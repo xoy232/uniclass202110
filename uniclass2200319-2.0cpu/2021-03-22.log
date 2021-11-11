@@ -1,0 +1,5 @@
+[C 20210322 17:58:04 log:34] (<class 'NameError'>, NameError("name 'aaaa' is not defined"), <traceback object at 0x7fc7c92ebfc0>)
+Traceback (most recent call last):
+  File "/home/uniclass/uniclass2200319/log.py", line 43, in <module>
+    aaaa
+NameError: name 'aaaa' is not defined

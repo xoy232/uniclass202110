@@ -1,0 +1,4 @@
+{
+    "jupyter.jupyterServerType": "local",
+    "python.pythonPath": "/home/nvidia/.virtualenvs/py3.6mxnet/bin/python"
+}

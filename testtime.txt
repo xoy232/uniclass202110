@@ -1,0 +1,53 @@
+500 X N
+Simple run N:  1  realtime : 29.792080640792847
+Muti run!  N:  1  realtime : 28.1832377910614
+Simple run N:  2  realtime : 50.321484327316284
+Muti run!  N:  2  realtime : 55.65533947944641
+Simple run N:  3  realtime : 86.06169605255127
+Muti run!  N:  3  realtime : 84.16065096855164
+Simple run N:  4  realtime : 105.81026816368103
+Muti run!  N:  4  realtime : 115.321533203125
+Simple run N:  5  realtime : 148.74873733520508
+Muti run!  N:  5  realtime : 153.27726793289185
+Simple run N:  6  realtime : 161.0249412059784
+Muti run!  N:  6  realtime : 176.1933376789093
+Simple run N:  7  realtime : 206.54928755760193
+Muti run!  N:  7  realtime : 213.5491316318512
+Simple run N:  8  realtime : 237.7016899585724
+Muti run!  N:  8  realtime : 241.0179808139801
+Simple run N:  9  realtime : 259.66610455513
+Muti run!  N:  9  realtime : 262.8698401451111
+Simple run N:  10  realtime : 289.93691301345825
+Muti run!  N:  10  realtime : 277.22175669670105
+Simple run N:  11  realtime : 322.8044784069061
+Muti run!  N:  11  realtime : 286.5253348350525
+Simple run N:  12  realtime : 334.82402634620667
+Muti run!  N:  12  realtime : 310.96415996551514
+Simple run N:  13  realtime : 341.4604389667511
+Muti run!  N:  13  realtime : 360.77150106430054
+Simple run N:  14  realtime : 354.0287048816681
+Muti run!  N:  14  realtime : 369.8129653930664
+Simple run N:  15  realtime : 393.1250648498535
+Muti run!  N:  15  realtime : 394.2847239971161
+Simple run N:  16  realtime : 421.70333552360535
+Muti run!  N:  16  realtime : 422.7942383289337
+Simple run N:  17  realtime : 446.1208248138428
+Muti run!  N:  17  realtime : 445.72666001319885
+
+500 arm cpu
+210s
+
+MP cpu
+43s
+
+x86 i3-7100u
+MP
+99s
+
+
+CUDA Muti Process! :
+N: 18 realtime : 149s
+N: 18 realtime : 152s
+
+
+
